@@ -15,7 +15,7 @@ To write and execute an Assembly language program for finding the square of a gi
 4. The output square value is stored in Port 2 (P2).
 
 ## PROGRAM
-```
+
 <img width="190" height="164" alt="image" src="https://github.com/user-attachments/assets/5e886311-7fdd-4d4e-b244-756792d7242f" />
 
 
@@ -26,7 +26,7 @@ To write and execute an Assembly language program for finding the square of a gi
 
 
 
-```
+
 
 ## OUTPUT
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/32ac6387-e90a-4c82-94b0-6910b8158aad" />
@@ -51,8 +51,7 @@ To write and execute an Assembly language program for finding the cube of a give
 4. The output cube value is stored in a memory location.
 
 ## PROGRAM
-`<img width="140" height="189" alt="image" src="https://github.com/user-attachments/assets/9c773baf-fab4-4fd3-88c1-42cbc3469457" />
-``
+<img width="140" height="189" alt="image" src="https://github.com/user-attachments/assets/9c773baf-fab4-4fd3-88c1-42cbc3469457" />
 
 
 
@@ -61,7 +60,8 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 
-```
+
+
 
 
 ## OUTPUT
